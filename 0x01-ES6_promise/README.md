@@ -1,1 +1,1 @@
-This repo contains projects for learning back end development concepts with JavaScript.
+0x01. ES6 Promises
